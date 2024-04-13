@@ -1,4 +1,4 @@
-#服务器简介#
+# 服务器简介 #
 
 **发展历程**
 
@@ -12,13 +12,13 @@
 **转折点**
 >winner8877于2024年年初使用[阿里云](https://cn.aliyun.com/)于二月中旬服务器突破10人同时在线(图丢了)目前服务器任然在运营中，欢迎大家来玩
 
-#服务器截图
+## 服务器截图
 ![alt text](/img/img1.jpg)
 ![alt text](/img/img2.jpg)
 ![alt text](/img/img3.jpg)
 ![alt text](/img/img4.jpg)
 ![alt text](/img/img5.jpg)
-#加入我们#
+# 加入我们 #
 
 ![alt text](/img/img6.png)  
 **[点击链接加入群聊](https://qm.qq.com/q/6BeswvikBq)**
@@ -26,7 +26,7 @@
 ![alt text](/img/img7.png)
 [点击添加服务器](https://5k.work/mcserver/mcserverapi?name=%E4%BD%95%E5%8F%B6%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8&ip=hye.winner8877.asia&port=19134)
 
-##游戏客户端粗略配置##
+## 游戏客户端粗略配置 ##
 
 - 版本:1.20.60-1.20.62
 - 未待完续
