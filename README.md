@@ -11,17 +11,17 @@
 **转折点**
 >winner8877于2024年年初使用[阿里云](https://cn.aliyun.com/)于二月中旬服务器突破10人同时在线(图丢了)目前服务器任然在运营中，欢迎大家来玩
 
-#服务器截图#
-![alt text](https://img.qovv.cn/2024/04/13/661a539384e14.jpg)
-[![Image_1713000150160.jpg](https://img.qovv.cn/2024/04/13/661a53935ca81.jpg)](https://img.qovv.cn/2024/04/13/661a53935ca81.jpg)
-[![Image_1713000152848.jpg](https://img.qovv.cn/2024/04/13/661a539331e39.jpg)](https://img.qovv.cn/2024/04/13/661a539331e39.jpg)
-[![Image_1713000155636.jpg](https://img.qovv.cn/2024/04/13/661a5393464b6.jpg)](https://img.qovv.cn/2024/04/13/661a5393464b6.jpg)
-[![Image_1713000160847.jpg](https://img.qovv.cn/2024/04/13/661a5393300dd.jpg)](https://img.qovv.cn/2024/04/13/661a5393300dd.jpg)
+#服务器截图
+![alt text](/img/img1.jpg)
+![alt text](/img/img2.jpg)
+![alt text](/img/img3.jpg)
+![alt text](/img/img4.jpg)
+![alt text](/img/img5.jpg)
 #加入我们#
-![qq加入](https://img.qovv.cn/2024/04/13/661a568456caa.png)   **[点击链接加入群聊](https://qm.qq.com/q/6BeswvikBq)**
+![qq加入](/img/img6.jpg)  **[点击链接加入群聊](https://qm.qq.com/q/6BeswvikBq)**
 
-[![icon.png](https://img.qovv.cn/2024/04/13/661a587c2a35c.png)](https://img.qovv.cn/2024/04/13/661a587c2a35c.png)
-[点击添加服务器](minecraft://?addExternalServer=何叶的服务器 | hye.winner8877.asia:19134)
+![icon.png](/img/img7.jpg)
+[点击添加服务器]https://5k.work/mcserver/mcserverapi?name=%E4%BD%95%E5%8F%B6%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8&ip=hye.winner8877.asia&port=19134)
 
 ##游戏客户端粗略配置##
 
