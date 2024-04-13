@@ -1,4 +1,5 @@
 #服务器简介#
+
 **发展历程**
 
  >2020年-现在(虽然不知道凉没凉)
@@ -18,10 +19,12 @@
 ![alt text](/img/img4.jpg)
 ![alt text](/img/img5.jpg)
 #加入我们#
-![qq加入](/img/img6.jpg)  **[点击链接加入群聊](https://qm.qq.com/q/6BeswvikBq)**
+
+![qq加入](/img/img6.jpg)  
+**[点击链接加入群聊](https://qm.qq.com/q/6BeswvikBq)**
 
 ![icon.png](/img/img7.jpg)
-[点击添加服务器]https://5k.work/mcserver/mcserverapi?name=%E4%BD%95%E5%8F%B6%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8&ip=hye.winner8877.asia&port=19134)
+[点击添加服务器](https://5k.work/mcserver/mcserverapi?name=%E4%BD%95%E5%8F%B6%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8&ip=hye.winner8877.asia&port=19134)
 
 ##游戏客户端粗略配置##
 
